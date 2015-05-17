@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="brooklyn-apache.task.plugin" version="1">
+	<about>
+    	<name>Brooklyn Apache Plugin</name>
+        <version>1.0</version>
+        <target-go-version>14.4</target-go-version>
+        <description>A plugin for Brooklyn Apache tool.</description>
+        <vendor>
+        	<name>Ricardo J. Garcia Pinel</name>
+            <url>www.dit.upm.es</url>
+        </vendor>
+        <target-os>
+        	<value>Linux</value>
+        </target-os>
+    </about>
+</go-plugin>
