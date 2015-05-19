@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<go-plugin id="brooklyn-apache.task.plugin" version="1">
+<go-plugin id="apache-brooklyn.task.plugin" version="1">
 	<about>
     	<name>Apache Brooklyn Task Plugin</name>
         <version>1.0</version>
