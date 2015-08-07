@@ -7,9 +7,7 @@ Usage:
 Download jar from releases & place it in <go-server-location>/plugins/external & restart Go Server.
 
 
-For more information about Brooklyn: https://brooklyn.incubator.apache.org/
-
-![ApacheBrooklyn Logo](http://brooklyn.incubator.apache.org/style/img/apache-brooklyn-logo-244px-wide.png "ApacheBrooklyn")  
+For more information about Apache Brooklyn: https://brooklyn.incubator.apache.org/
 
 ### License
 
