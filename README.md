@@ -14,4 +14,5 @@ For more information about Brooklyn: https://brooklyn.incubator.apache.org/
 ### License
 
 Go Artifactory Plugin is distributed under the terms of Apache Software License v2.0: http://www.apache.org/licenses/LICENSE-2.0.html
+
  ![Go.CD Logo](http://www.go.cd/images/logo-go-home_2014.png "GoCD")    
